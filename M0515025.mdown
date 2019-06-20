@@ -1,0 +1,26 @@
+#TUGAS OPEN SOURCE
+
+#### Tugas Pengganti Pertemuan : Rangkuman materi
+##CONTOH KOMUNITAS PENGGUNA DAN PENGEMBANG OPEN SOURCE
+
+####Muhammad Ivan Prayoga (M0515025)
+
+
+####Contoh Komunitas Pengembang
+Komunitas pengembang open source adalah kumpulan orang yang bergabung dalam suatu kegiatan pengembangan produk open source.
+
+1. **Pengembang Apache** [www.apache.org]. 
+Pengembang produk-produk Apache, web server Apache, application server Tomcat, aplikasi perkantoran OpenOffice.
+
+2. **Free Software Foundation** [fsf.org]
+Pengembangan beberapa software dalam proyek GNU[www.gnu.org]: gcc(compiler), emacs(editor teks), glibc(C library), dll.
+
+3. **Pengembang Kernel Linux** [www.kernel.org].
+Pengembang kernel yang dapat digunakan sebagai inti sistem operasi smartphone (HP/Tablet), android, dekstop, server, dll. Organisasi pendukung komunitas pengembang kernel Linux adalah Linux Foundation [www.linuxfoundation.org] dan [www.linux.com]. Yayasan Linux bersama Intel dan Samsung sedang mengembangkan sistem operasi komputer Tizen. 
+
+3. **Pengembang Mozilla** [www.mozilla.org].
+Komunitas pengembang aplikasi web browser firefox, email client Thunderbird, sistem operasi perangkat bergerak Mozilla OS, dan lain-lain. Organisasi yang mendukung komunitas Mozilla adalah Mozilla Corporation.
+4. **Pengembang BlankOn** [www.blankonlinux.or.id].
+Pengembang BlankOn melakukan kolaborasi pengembangan distro Linux BlankOn melalui internet, seperti umumnya pengembang open source besar dunia. Beberapa fasilitas yang banyak digunakan Tim Pengembang BlankOn adalah email melalui mailing list BlankOn-Dev@googlegroups.com, chatting melalui IRC, serta software khusus pengembangan bersama seperti git/bzr dan wiki. BlankOn didukung YPLI dan lain-lain.
+
+*M0515025*
